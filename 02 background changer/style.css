@@ -1,0 +1,23 @@
+
+.box{
+    width: 50%;
+    background-color: #444;
+    padding: 10px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    /* rotate deg */
+    /* scale 1,5 */
+}
+
+.box h1{
+    text-align: center;
+    margin: 20px 0;
+    color: white;
+}
+
+.box div{
+    text-align: center;
+    margin: 20px 0;
+}
